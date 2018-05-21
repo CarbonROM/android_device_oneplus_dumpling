@@ -43,4 +43,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 BUILD_FINGERPRINT := OnePlus/OnePlus5T/OnePlus5T:8.1.0/OPM1.171019.011/04110359:user/release-keys
 
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.carbon.maintainer="_Mrinal_"
+
 TARGET_VENDOR := oneplus
