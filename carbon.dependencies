@@ -1,7 +1,7 @@
 [
   {
    "remote"     : "carbon",
-   "repository ": "CarbonROM/android_device_oppo_common",
+   "repository" : "CarbonROM/android_device_oppo_common",
    "target_path": "device/oppo/common",
    "revision"   : "cr-7.0"
   },
